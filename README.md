@@ -1,1 +1,3 @@
-# WordPress theme for Lagarde
+# Lagarde
+
+WordPress theme for Lagarde
